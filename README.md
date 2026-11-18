@@ -1,5 +1,5 @@
 # Meta DWH for Trino table usage
-#created by Javairia Rehman
+Author: Javairia Rehman
 A small data warehouse that collects usage statistics of the Iceberg tables
 queried through Trino. It answers questions such as
 
@@ -225,4 +225,5 @@ python pipeline/run_pipeline.py --dry-run    # print SQL only
   columns.
 * Data quality checks after each load, for example comparing the number of
   queries in `fct_query` with the raw events of the same day.
-#created by Javairia Rehman
+
+Author: Javairia Rehman
