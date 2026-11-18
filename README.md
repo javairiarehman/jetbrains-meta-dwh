@@ -1,4 +1,6 @@
 # Meta DWH for Trino table usage
+
+
 Author: Javairia Rehman
 A small data warehouse that collects usage statistics of the Iceberg tables
 queried through Trino. It answers questions such as
