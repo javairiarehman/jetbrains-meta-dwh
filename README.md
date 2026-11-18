@@ -1,2 +1,1 @@
-# jetbrains-meta-dwh
-Jetbrains task for Data Engineering for Product Analytics Internship
+# Meta DWH for Trino table usage
